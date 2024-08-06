@@ -1,0 +1,191 @@
+[
+  {
+    "namespaceId": "ns-105-0001",
+    "namespaceName": "ZoneA",
+    "stackName": "ApplicationServer",
+    "status": "In Sync",
+    "cost": 5400,
+    "resourceCount": 36,
+    "managedResources": 30
+  },
+  {
+    "namespaceId": "ns-105-0001",
+    "namespaceName": "ZoneA",
+    "stackName": "DataStore",
+    "status": "Drifted",
+    "cost": 3800,
+    "resourceCount": 31,
+    "managedResources": 26
+  },
+  {
+    "namespaceId": "ns-105-0002",
+    "namespaceName": "ZoneB",
+    "stackName": "BackendServices",
+    "status": "Drifted",
+    "cost": 9000,
+    "resourceCount": 45,
+    "managedResources": 37
+  },
+  {
+    "namespaceId": "ns-105-0002",
+    "namespaceName": "ZoneB",
+    "stackName": "UserDashboard",
+    "status": "In Sync",
+    "cost": 6500,
+    "resourceCount": 42,
+    "managedResources": 39
+  },
+  {
+    "namespaceId": "ns-105-0003",
+    "namespaceName": "ZoneC",
+    "stackName": "APIManagement",
+    "status": "Error",
+    "cost": 0,
+    "resourceCount": 0,
+    "managedResources": 0
+  },
+  {
+    "namespaceId": "ns-105-0003",
+    "namespaceName": "ZoneC",
+    "stackName": "UserInterface",
+    "status": "Drifted",
+    "cost": 3400,
+    "resourceCount": 29,
+    "managedResources": 24
+  },
+  {
+    "namespaceId": "ns-105-0004",
+    "namespaceName": "ZoneD",
+    "stackName": "CacheLayer",
+    "status": "In Sync",
+    "cost": 3700,
+    "resourceCount": 29,
+    "managedResources": 20
+  },
+  {
+    "namespaceId": "ns-105-0004",
+    "namespaceName": "ZoneD",
+    "stackName": "ETLProcesses",
+    "status": "Error",
+    "cost": 4500,
+    "resourceCount": 35,
+    "managedResources": 29
+  },
+  {
+    "namespaceId": "ns-105-0004",
+    "namespaceName": "ZoneD",
+    "stackName": "SecurityGateway",
+    "status": "Drifted",
+    "cost": 4200,
+    "resourceCount": 32,
+    "managedResources": 27
+  },
+  {
+    "namespaceId": "ns-105-0005",
+    "namespaceName": "ZoneE",
+    "stackName": "SystemMonitoring",
+    "status": "Drifted",
+    "cost": 3000,
+    "resourceCount": 24,
+    "managedResources": 22
+  },
+  {
+    "namespaceId": "ns-105-0005",
+    "namespaceName": "ZoneE",
+    "stackName": "DeploymentManager",
+    "status": "In Sync",
+    "cost": 5100,
+    "resourceCount": 45,
+    "managedResources": 40
+  },
+  {
+    "namespaceId": "ns-105-0006",
+    "namespaceName": "ZoneF",
+    "stackName": "AnalyticsEngine",
+    "status": "Error",
+    "cost": 5100,
+    "resourceCount": 39,
+    "managedResources": 35
+  },
+  {
+    "namespaceId": "ns-105-0006",
+    "namespaceName": "ZoneF",
+    "stackName": "LoadTesting",
+    "status": "In Sync",
+    "cost": 5600,
+    "resourceCount": 42,
+    "managedResources": 36
+  },
+  {
+    "namespaceId": "ns-105-0007",
+    "namespaceName": "ZoneG",
+    "stackName": "GatewayServices",
+    "status": "In Sync",
+    "cost": 7300,
+    "resourceCount": 49,
+    "managedResources": 44
+  },
+  {
+    "namespaceId": "ns-105-0007",
+    "namespaceName": "ZoneG",
+    "stackName": "EventProcessing",
+    "status": "Drifted",
+    "cost": 3400,
+    "resourceCount": 26,
+    "managedResources": 22
+  },
+  {
+    "namespaceId": "ns-105-0008",
+    "namespaceName": "ZoneH",
+    "stackName": "WarehouseSystem",
+    "status": "Drifted",
+    "cost": 8200,
+    "resourceCount": 54,
+    "managedResources": 46
+  },
+  {
+    "namespaceId": "ns-105-0008",
+    "namespaceName": "ZoneH",
+    "stackName": "QualityAssurance",
+    "status": "In Sync",
+    "cost": 5800,
+    "resourceCount": 42,
+    "managedResources": 34
+  },
+  {
+    "namespaceId": "ns-105-0008",
+    "namespaceName": "ZoneH",
+    "stackName": "PrototypeWork",
+    "status": "Error",
+    "cost": 4500,
+    "resourceCount": 30,
+    "managedResources": 24
+  },
+  {
+    "namespaceId": "ns-105-0009",
+    "namespaceName": "ZoneI",
+    "stackName": "MLModel",
+    "status": "In Sync",
+    "cost": 2700,
+    "resourceCount": 19,
+    "managedResources": 14
+  },
+  {
+    "namespaceId": "ns-105-0009",
+    "namespaceName": "ZoneI",
+    "stackName": "DataPrep",
+    "status": "Drifted",
+    "cost": 4500,
+    "resourceCount": 34,
+    "managedResources": 24
+  },
+  {
+    "namespaceId": "ns-105-0009",
+    "namespaceName": "ZoneI",
+    "stackName": "TrainingModels",
+    "status": "Error",
+    "cost": 6600,
+    "resourceCount": 44,
+    "managedResources": 39
+  }
+]

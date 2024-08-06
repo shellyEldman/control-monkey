@@ -1,0 +1,191 @@
+[
+  {
+    "namespaceId": "ns-101-0001",
+    "namespaceName": "DevEnv",
+    "stackName": "WebApp",
+    "status": "In Sync",
+    "cost": 5000,
+    "resourceCount": 30,
+    "managedResources": 20
+  },
+  {
+    "namespaceId": "ns-101-0001",
+    "namespaceName": "DevEnv",
+    "stackName": "Backend",
+    "status": "Drifted",
+    "cost": 3500,
+    "resourceCount": 28,
+    "managedResources": 25
+  },
+  {
+    "namespaceId": "ns-101-0002",
+    "namespaceName": "ProdEnv",
+    "stackName": "Database",
+    "status": "Drifted",
+    "cost": 8500,
+    "resourceCount": 40,
+    "managedResources": 30
+  },
+  {
+    "namespaceId": "ns-101-0002",
+    "namespaceName": "ProdEnv",
+    "stackName": "WebApp",
+    "status": "In Sync",
+    "cost": 6000,
+    "resourceCount": 35,
+    "managedResources": 33
+  },
+  {
+    "namespaceId": "ns-101-0003",
+    "namespaceName": "TestEnv",
+    "stackName": "Microservices",
+    "status": "Error",
+    "cost": 0,
+    "resourceCount": 0,
+    "managedResources": 0
+  },
+  {
+    "namespaceId": "ns-101-0003",
+    "namespaceName": "TestEnv",
+    "stackName": "Frontend",
+    "status": "Drifted",
+    "cost": 2900,
+    "resourceCount": 25,
+    "managedResources": 20
+  },
+  {
+    "namespaceId": "ns-101-0004",
+    "namespaceName": "StagingEnv",
+    "stackName": "Cache",
+    "status": "In Sync",
+    "cost": 3200,
+    "resourceCount": 25,
+    "managedResources": 15
+  },
+  {
+    "namespaceId": "ns-101-0004",
+    "namespaceName": "StagingEnv",
+    "stackName": "DataProcessing",
+    "status": "Error",
+    "cost": 4100,
+    "resourceCount": 30,
+    "managedResources": 25
+  },
+  {
+    "namespaceId": "ns-101-0004",
+    "namespaceName": "StagingEnv",
+    "stackName": "Security",
+    "status": "Drifted",
+    "cost": 3800,
+    "resourceCount": 28,
+    "managedResources": 22
+  },
+  {
+    "namespaceId": "ns-101-0005",
+    "namespaceName": "DevOps",
+    "stackName": "Monitoring",
+    "status": "Drifted",
+    "cost": 2600,
+    "resourceCount": 20,
+    "managedResources": 18
+  },
+  {
+    "namespaceId": "ns-101-0005",
+    "namespaceName": "DevOps",
+    "stackName": "CI/CD",
+    "status": "In Sync",
+    "cost": 4700,
+    "resourceCount": 40,
+    "managedResources": 35
+  },
+  {
+    "namespaceId": "ns-101-0006",
+    "namespaceName": "QAEnv",
+    "stackName": "Analytics",
+    "status": "Error",
+    "cost": 4700,
+    "resourceCount": 35,
+    "managedResources": 30
+  },
+  {
+    "namespaceId": "ns-101-0006",
+    "namespaceName": "QAEnv",
+    "stackName": "LoadTesting",
+    "status": "In Sync",
+    "cost": 5200,
+    "resourceCount": 37,
+    "managedResources": 32
+  },
+  {
+    "namespaceId": "ns-101-0007",
+    "namespaceName": "IntegrationEnv",
+    "stackName": "API Gateway",
+    "status": "In Sync",
+    "cost": 6900,
+    "resourceCount": 45,
+    "managedResources": 40
+  },
+  {
+    "namespaceId": "ns-101-0007",
+    "namespaceName": "IntegrationEnv",
+    "stackName": "EventBus",
+    "status": "Drifted",
+    "cost": 3000,
+    "resourceCount": 22,
+    "managedResources": 18
+  },
+  {
+    "namespaceId": "ns-101-0008",
+    "namespaceName": "SandboxEnv",
+    "stackName": "DataLake",
+    "status": "Drifted",
+    "cost": 7800,
+    "resourceCount": 50,
+    "managedResources": 42
+  },
+  {
+    "namespaceId": "ns-101-0008",
+    "namespaceName": "SandboxEnv",
+    "stackName": "Testing",
+    "status": "In Sync",
+    "cost": 5400,
+    "resourceCount": 38,
+    "managedResources": 30
+  },
+  {
+    "namespaceId": "ns-101-0008",
+    "namespaceName": "SandboxEnv",
+    "stackName": "Prototype",
+    "status": "Error",
+    "cost": 4100,
+    "resourceCount": 25,
+    "managedResources": 20
+  },
+  {
+    "namespaceId": "ns-101-0009",
+    "namespaceName": "TrainingEnv",
+    "stackName": "ML Models",
+    "status": "In Sync",
+    "cost": 2300,
+    "resourceCount": 15,
+    "managedResources": 10
+  },
+  {
+    "namespaceId": "ns-101-0009",
+    "namespaceName": "TrainingEnv",
+    "stackName": "DataPrep",
+    "status": "Drifted",
+    "cost": 4100,
+    "resourceCount": 30,
+    "managedResources": 20
+  },
+  {
+    "namespaceId": "ns-101-0009",
+    "namespaceName": "TrainingEnv",
+    "stackName": "ModelTraining",
+    "status": "Error",
+    "cost": 6200,
+    "resourceCount": 40,
+    "managedResources": 35
+  }
+]
